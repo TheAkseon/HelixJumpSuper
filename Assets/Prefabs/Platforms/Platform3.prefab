@@ -105,6 +105,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4d79187168c028c4c8030b38a9824be6, type: 3}
+--- !u!1 &2735920796835918665 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4d79187168c028c4c8030b38a9824be6, type: 3}
+  m_PrefabInstance: {fileID: 2969728860092829208}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &574140517580592553
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2735920796835918665}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 2534964839176971238, guid: 4d79187168c028c4c8030b38a9824be6, type: 3}
 --- !u!4 &3367603818059688435 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4d79187168c028c4c8030b38a9824be6, type: 3}
@@ -167,6 +186,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9bd58f3aa5e71d4fb9353e2da4bb6e4, type: 3}
+--- !u!1 &2469661498912130666 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e9bd58f3aa5e71d4fb9353e2da4bb6e4, type: 3}
+  m_PrefabInstance: {fileID: 3352764847691463483}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &6185056347605896564
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2469661498912130666}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 2534964839176971238, guid: e9bd58f3aa5e71d4fb9353e2da4bb6e4, type: 3}
 --- !u!4 &2958249920104864976 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: e9bd58f3aa5e71d4fb9353e2da4bb6e4, type: 3}
@@ -229,6 +267,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9bd58f3aa5e71d4fb9353e2da4bb6e4, type: 3}
+--- !u!1 &6000290247670836034 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e9bd58f3aa5e71d4fb9353e2da4bb6e4, type: 3}
+  m_PrefabInstance: {fileID: 6882689771704161811}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1324872409762074235
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6000290247670836034}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 2534964839176971238, guid: e9bd58f3aa5e71d4fb9353e2da4bb6e4, type: 3}
 --- !u!4 &6345150336324956664 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: e9bd58f3aa5e71d4fb9353e2da4bb6e4, type: 3}
@@ -291,6 +348,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4d79187168c028c4c8030b38a9824be6, type: 3}
+--- !u!1 &8193882776947704921 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4d79187168c028c4c8030b38a9824be6, type: 3}
+  m_PrefabInstance: {fileID: 9040955537841584392}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &565937272210635177
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8193882776947704921}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 2534964839176971238, guid: 4d79187168c028c4c8030b38a9824be6, type: 3}
 --- !u!4 &8862332363126382307 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 4d79187168c028c4c8030b38a9824be6, type: 3}
