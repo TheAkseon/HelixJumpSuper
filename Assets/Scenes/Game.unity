@@ -169,6 +169,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _beam: {fileID: 6714113117205049553, guid: bb27e3473b15492478a32bf8a4c3c335, type: 3}
   _levelCount: 5
+  _spawnPlatform: {fileID: 0}
+  _platforms: []
+  _finishPlatform: {fileID: 0}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0

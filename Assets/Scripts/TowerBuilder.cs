@@ -4,6 +4,9 @@ public class TowerBuilder : MonoBehaviour
 {
     [SerializeField] private GameObject _beam;
     [SerializeField] private int _levelCount;
+    [SerializeField] private SpawnPlatform _spawnPlatform;
+    [SerializeField] private Platform[] _platforms;
+    [SerializeField] private FinishPlatform _finishPlatform;
 
     private void Start()
     {
