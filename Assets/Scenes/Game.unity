@@ -169,9 +169,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _beam: {fileID: 6714113117205049553, guid: bb27e3473b15492478a32bf8a4c3c335, type: 3}
   _levelCount: 5
-  _spawnPlatform: {fileID: 0}
-  _platforms: []
-  _finishPlatform: {fileID: 0}
+  _spawnPlatform: {fileID: 9034413768381645756, guid: 8e8c0267772a4144bbf0eb979e76af90, type: 3}
+  _platforms:
+  - {fileID: 5928967316955732402, guid: 6aee26a4f132081428afcc9d28c90fa9, type: 3}
+  - {fileID: -3231337806106608837, guid: 1c1d0a40b06c3b54986c6da14a14151a, type: 3}
+  - {fileID: -5087383416682222066, guid: 752dc92b4297a5f44ac53a045193988a, type: 3}
+  _finishPlatform: {fileID: 6148668744137123910, guid: 3302f7e8baffe9646875e950bbfe9efd, type: 3}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
