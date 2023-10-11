@@ -5,7 +5,7 @@ public class SpawnPlatform : Platform
     [SerializeField] private Transform _spawnPoint;
     [SerializeField] private Ball _ball;
 
-    private void Start()
+    private void Awake()
     {
         SpawnBall();
     }

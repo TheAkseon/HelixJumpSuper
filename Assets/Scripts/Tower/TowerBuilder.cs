@@ -11,7 +11,7 @@ public class TowerBuilder : MonoBehaviour
 
     private float _additionalScaleForStartAndFinishPlatform = 0.5f;
 
-    private float BeamScaleY => _levelCount / 2f + _additionalScaleForStartAndFinishPlatform + _additionalScale / 2f;
+    public float BeamScaleY => _levelCount / 2f + _additionalScaleForStartAndFinishPlatform + _additionalScale / 2f;
 
     private void Start()
     {
